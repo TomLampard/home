@@ -1,7 +1,7 @@
-# Welcome to my little app
+# Welcome
 
 This is my personal site and portfolio, that also acts as my little playground to test new concepts
-in 3d on the web. It is built on the T3 stack, using next js, prisma, tailwind, nextauth with delightful little three js & react-three-fiber sprinkles added ontop. 
+in 3d on the web. It is currently built on the T3 stack, using next js, prisma, tailwind, nextauth with delightful little three js & react-three-fiber sprinkles added ontop. 
 
 If your into 3d and react apps I hope you find something of interest. 
 
@@ -9,7 +9,7 @@ If your into 3d and react apps I hope you find something of interest.
 
 We are truly blessed living in a time of shared information, knowledge and open source. There are so many amazing people throughout so many communities, and I thank the collective as a whole. 
 
-You can find links to the amazing documentation for each of the pieces used here:-
+You can find links to the documentation for each of the technologies used here:-
 
 Dev
 - [CreateT3App](https://create.t3.gg)
@@ -20,4 +20,4 @@ Dev
 - [tRPC](https://trpc.io)
 - [threeJs](https://threejs.org)
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber)
-
+- [Framer Motion ](https://www.framer.com/motion/)
