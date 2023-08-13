@@ -11,7 +11,6 @@ We are truly blessed living in a time of shared information, knowledge and open 
 
 You can find links to the documentation for each of the technologies used here:-
 
-Dev
 - [CreateT3App](https://create.t3.gg)
 - [Next.js](https://nextjs.org)
 - [NextAuth.js](https://next-auth.js.org)
